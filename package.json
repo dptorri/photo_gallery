@@ -1,0 +1,15 @@
+{
+  "name": "photo_gallery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dptorri/photo_gallery.git",
+  "author": "<dptorri@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.29.0"
+  },
+  "scripts": {
+    "watch": "parcel src/index.html"
+  }
+}
